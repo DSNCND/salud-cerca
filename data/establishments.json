@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "nombre": "Hospital General de Agudos Dr. Cosme Argerich",
+    "tipo": "hospital",
+    "direccion": "Pi y Margall 750",
+    "localidad": "Ciudad Autónoma de Buenos Aires",
+    "provincia": "Ciudad Autónoma de Buenos Aires",
+    "lat": -34.6286,
+    "lon": -58.3656
+  },
+  {
+    "id": "2",
+    "nombre": "Centro de Salud Comunitario",
+    "tipo": "centro_salud",
+    "direccion": "Av. San Martín 1200",
+    "localidad": "Florencio Varela",
+    "provincia": "Buenos Aires",
+    "lat": -34.816,
+    "lon": -58.276
+  },
+  {
+    "id": "3",
+    "nombre": "Farmacia Central",
+    "tipo": "farmacia",
+    "direccion": "Av. Mitre 500",
+    "localidad": "Avellaneda",
+    "provincia": "Buenos Aires",
+    "lat": -34.6627,
+    "lon": -58.3644
+  }
+]
