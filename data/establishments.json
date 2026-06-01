@@ -55,9 +55,7 @@
 { "id": "551", "nombre" : "SANATORIO URQUIZA S.A. -TALECO S.A.", "tipo": "ESTABLECIMIENTO", "direccion": "URQUIZA 1537", "localidad": "QUILMES", "provincia": "BUENOS AIRES", "lat": -34.731771904898, "lon": -58.269756289914596}, 
 { "id": "556", "nombre" : "CLINICA BRANDSEN S.A", "tipo": "ESTABLECIMIENTO", "direccion": "BRANDSEN  128", "localidad": "QUILMES", "provincia": "BUENOS AIRES", "lat": -34.72726984874968, "lon": -58.254455184486645}
 
-
 ,
-
 
 { "id": "10000", "nombre" : "BIANCHI", "tipo": "FARMACIA", "direccion": "Avenida 14 Presidente Juan Domingo Perón 4653", "localidad": "BERAZATEGUI", "provincia": "BUENOS AIRES", "lat": -34.76255727078046, "lon": -58.21025283988214}, 
 { "id": "10001", "nombre" : "PORTA EMILIO HUGO", "tipo": "FARMACIA", "direccion": "14 5208", "localidad": "BERAZATEGUI", "provincia": "BUENOS AIRES", "lat": -34.75930261524658, "lon": -58.20513361745638}, 
